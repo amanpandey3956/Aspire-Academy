@@ -4,8 +4,6 @@ A comprehensive educational community platform for tutors and learners to connec
 
 *Empowering education through technology.*
 
----
-
 ## Table of Contents
 
 1. [About the Project](#about-the-project)
@@ -18,21 +16,15 @@ A comprehensive educational community platform for tutors and learners to connec
 8. [Contact](#contact)
 9. [Connect with Me](#ConnectwithMe)
 
----
-
 ## About the Project
 
 Aspire Academy is an innovative educational platform designed to bridge the gap between tutors and learners. It provides a space for collaboration, resource sharing, and interactive learning experiences.
-
----
 
 ## Features
 
 - **User Authentication**: Secure registration and login functionality using JWT.
 - **Role-Based Access**: Separate functionalities for Tutors and Students.
 - **Homepage Feed**: Announcements, comments, reactions, and more.
-
----
 
 ## Tech Stack
 
@@ -41,8 +33,6 @@ Aspire Academy is an innovative educational platform designed to bridge the gap 
 - **Authentication**: JWT (JSON Web Tokens)
 - **Version Control**: Git, GitHub
 - **Deployment**: Vercel (Frontend), Render (Backend)
-
----
 
 ## Getting Started
 
@@ -126,7 +116,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE.md) file for details.
 
 ## Contact
 
