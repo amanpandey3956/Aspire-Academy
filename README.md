@@ -55,60 +55,59 @@ To get a local copy of this project up and running, follow these steps:
 
 ### Installation
 
-1. **Clone the repository**: `git clone https://github.com/amanpandey3956/Aspire-Academy.git`.
+1. **Clone the repository**
+
+```
+git clone https://github.com/amanpandey3956/Aspire-Academy.git
+cd Aspire-Academy
+```
 
 2. **Install Dependencies**
 
-### Frontend:
+Frontend:
 ```
 cd client
 npm install
-
 ```
 
-### Backend:
+Backend:
 ```
 cd server
 npm install
-
 ```
 
 3. **Environment Variables**
 
 Create `.env` files in both client and server directories.
 
-### Frontend `.env`
+Frontend `.env`
 
 ```
 REACT_APP_API_URL= `http://localhost:5000`
-
 ```
 
-### Backend `.env`
+Backend `.env`
 
 ```
 PORT=5000
 MONGO_URI=<Your MongoDB URI>
 JWT_SECRET=<Your Secret Key>
-
 ```
 
 4. **Run the Application**
 
-### Start Backend:
+Start Backend:
 
 ```
 cd server
 npm run dev
-
 ```
 
-### Start Frontend:
+Start Frontend:
 
 ```
 cd client
 npm run dev
-
 ```
 
 ## Contributing
